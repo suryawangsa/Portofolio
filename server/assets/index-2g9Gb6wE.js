@@ -1,4 +1,4 @@
-import { r as reactExports, V as jsxRuntimeExports } from "./server-C2R2njH2.js";
+import { r as reactExports, V as jsxRuntimeExports } from "./server-C_wodvgg.js";
 import "node:async_hooks";
 import "node:stream/web";
 import "node:stream";
@@ -7895,7 +7895,7 @@ const featureBundle = {
   ...layout
 };
 const motion = /* @__PURE__ */ createMotionProxy(featureBundle, createDomVisualElement);
-const profile = "/assets/profile-Cw7PwVit.png";
+const profile = "/Portofolio/assets/profile-Cw7PwVit.png";
 function Hero() {
   return /* @__PURE__ */ jsxRuntimeExports.jsxs(
     "section",
@@ -8355,9 +8355,9 @@ function Achievements() {
     ] }) }, it.title)) })
   ] });
 }
-const digibloom = "/assets/project-digibloom-gG_m_Con.png";
-const sabda = "/assets/project-sabda-O-Oauo-f.png";
-const topeng = "/assets/project-topeng-BnzzIFqh.png";
+const digibloom = "/Portofolio/assets/project-digibloom-gG_m_Con.png";
+const sabda = "/Portofolio/assets/project-sabda-O-Oauo-f.png";
+const topeng = "/Portofolio/assets/project-topeng-BnzzIFqh.png";
 const projects = [
   {
     name: "DigiBloom",
