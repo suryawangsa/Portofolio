@@ -24,7 +24,7 @@ export function About() {
     <section id="about" className="relative py-28">
       <SectionHeading
         eyebrow="About Me"
-        title="Aboute Me"
+        title="About Me"
         description="Creative digital enthusiast di bidang social media management, content creator, copywraiting, dan KOL Management."
       />
       <div className="mx-auto max-w-6xl px-4 grid gap-6 md:grid-cols-2">
